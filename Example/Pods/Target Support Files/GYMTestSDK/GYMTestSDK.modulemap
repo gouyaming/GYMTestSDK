@@ -1,0 +1,6 @@
+framework module GYMTestSDK {
+  umbrella header "GYMTestSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
