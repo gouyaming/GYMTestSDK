@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GYMTestSDK_Tests' do
+  pod 'GYMTestSDK', :path => '../'
+  
+  
+end
